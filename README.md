@@ -11,4 +11,4 @@ I work on agent runtimes, model routing, and private stacks until they actually 
 - Privacy-first local and self-hosted agent work
 
 ## How I work
-Inspect first. Prefer official sources. Smallest coherent change. Verify the exact result. No hidden patches, no stacked prompt layers.
+Inspect first. Prefer official sources. Smallest coherent change. Verify the exact result.

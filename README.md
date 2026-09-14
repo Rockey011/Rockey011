@@ -1,7 +1,14 @@
 # NUXER
 
-**AI Agent Engineer • Tooling • Automation**
+AI Agent Engineer • Tooling • Automation
 
-I build and run agent stacks until they actually work. Runtimes, model routing, private setups, and the boring glue around them.
+I work on agent runtimes, model routing, and private stacks until they actually run. Less demos, more the glue that makes agents usable day to day.
 
-Currently deep in [Hermes Agent](https://github.com/NousResearch/hermes-agent).
+## Focus
+- Agent systems (Hermes and similar runtimes)
+- Model routing and provider-agnostic setups
+- Tooling, automation, and persistent memory
+- Privacy-first local and self-hosted agent work
+
+## How I work
+Inspect first. Prefer official sources. Smallest coherent change. Verify the exact result. No hidden patches, no stacked prompt layers.
